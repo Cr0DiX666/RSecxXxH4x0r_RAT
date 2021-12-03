@@ -96,8 +96,8 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 ---
 
 ## Contact :
-<a href=mailto:swagkarna@gmail.com><img src="https://img.shields.io/badge/Gmail-swagkarna-green?style=for-the-badge" /></a>
-<a href=https://twitter.com/swagkarna><img src="https://img.shields.io/badge/Twitter-@swagkarna-blue?style=for-the-badge" /></a>
+<a href=mailto:rsecxxx@gmail.com
+<a href=https://www.facebook.com/RadenKiAcuy
 
 
 ---    
@@ -107,11 +107,19 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 </p>
 <h2 align="center">Inspired From Raptor-Rat</h2>
 
+## Buy My Coffe
+
+## DANA & GOPAY
+
+```
+085600006369
+```
 ---
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/stargazers)
-[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/network/members)
 
+```
+Thanks To: INDONESIA-SYNDICATE666GH0ST | MUGIWARA BLACKHAT | GRAYHAT SEC666 GH0ST | SECURITY AGENCY_X7
+```
 ---
                         
                         
