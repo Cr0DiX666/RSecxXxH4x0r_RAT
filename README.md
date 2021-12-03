@@ -96,8 +96,10 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 ---
 
 ## Contact :
-<a href=mailto:rsecxxx@gmail.com<img src="https://i.ibb.co/cgxYY3T/images.jpg" alt="images" border="0">
-<a href=https://www.facebook.com/RadenKiAcuy<img src="https://i.ibb.co/GtStm2K/images-1.jpg" alt="images-1" border="0">
+rsecxxx@gmail.com
+<img src="https://i.ibb.co/cgxYY3T/images.jpg" alt="images" border="0">
+https://www.facebook.com/RadenKiAcuy
+<img src="https://i.ibb.co/GtStm2K/images-1.jpg" alt="images-1" border="0">
 
 
 ---    
