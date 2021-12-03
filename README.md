@@ -6,7 +6,7 @@
 </p>   
 
 <p align=center>  
-<a href=https://github.com/swagkarna><img src="https://img.shields.io/badge/Author-Swagkarna-red.svg?style=for-the-badge&label=Author" /></a>
+<a href=https://github.com/RSecxXx><img src="https://img.shields.io/badge/Author-RSecxXx@H4x0r.iĐ-red.svg?style=for-the-badge&label=Author" /></a>
 
 <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" >
 <img src="https://img.shields.io/github/stars/swagkarna/Rafel-Rat?style=for-the-badge">  
@@ -96,8 +96,8 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 ---
 
 ## Contact :
-<a href=mailto:rsecxxx@gmail.com
-<a href=https://www.facebook.com/RadenKiAcuy
+<a href=mailto:rsecxxx@gmail.com<img src="https://i.ibb.co/cgxYY3T/images.jpg" alt="images" border="0">
+<a href=https://www.facebook.com/RadenKiAcuy<img src="https://i.ibb.co/GtStm2K/images-1.jpg" alt="images-1" border="0">
 
 
 ---    
